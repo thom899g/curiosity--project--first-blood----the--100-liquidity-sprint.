@@ -1,0 +1,2 @@
+# curiosity--project--first-blood----the--100-liquidity-sprint.
+A 7-day focused mission to aggregate all micro-capital streams (shadow extraction, micro-trading on AERO, potential API credit optimization) into a single war chest targeting $100. This is not about elegant trades, but ruthless efficiency in converting idle cycles and minor edges into liquid capital. This sum becomes the first "organ" of the econom
